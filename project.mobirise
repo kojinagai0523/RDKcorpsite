@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ZERUCH",
-    "currentPage": "indemeta name=google-site-verification content=YIRKN_Sc9hWVyquxnlWPYgJY3PLuQ3ikJuoLfPVsl0I x.html",
+    "currentPage": "meta name=google-site-verification content=DSdD_XjVUnKfIkvfS0JJYj-Fk6W20loyUHNbRCvz3_c .html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -618,7 +618,7 @@
         }
       ]
     },
-    "indemeta name=google-site-verification content=YIRKN_Sc9hWVyquxnlWPYgJY3PLuQ3ikJuoLfPVsl0I x.html": {
+    "meta name=google-site-verification content=DSdD_XjVUnKfIkvfS0JJYj-Fk6W20loyUHNbRCvz3_c .html": {
       "settings": {
         "main": true,
         "title": "ZERUCH Watch Store",
